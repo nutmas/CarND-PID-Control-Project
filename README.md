@@ -124,7 +124,7 @@ Criteria for success:
 
 ![alt text][image4]
 
-A video of the full lamp can be viewed by downloading: [Full Lap Video](./support/FullVideo_480.mov)
+A video of the full lap can be viewed by downloading: [Full Lap Video](./support/FullVideo_480.mov)
 
 
 
